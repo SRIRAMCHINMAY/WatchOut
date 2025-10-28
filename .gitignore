@@ -1,0 +1,15 @@
+AWID-CLS-R-Trn/
+AWID-CLS-R-Tst/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore temporary or system files
+.DS_Store
+*.swp
+*.swo
