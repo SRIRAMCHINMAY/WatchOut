@@ -13,3 +13,8 @@ __pycache__/
 .DS_Store
 *.swp
 *.swo
+
+awid_pipeline.py
+Multiclass_classification_using_76_feature .ipynb
+Traditional ML on AWID Dataset.ipynb
+test.ipynb
