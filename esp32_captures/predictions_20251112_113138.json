@@ -1,0 +1,167 @@
+{
+  "timestamp": "20251112_113138",
+  "packet_count": 10,
+  "anomaly_count": 10,
+  "predictions": [
+    {
+      "packet_id": 71,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 271.0,
+        "frame.cap_len": 271.0,
+        "radiotap.dbm_antsignal": -82.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 1.1e-05,
+        "frame.time_relative": 4.074754,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 72,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 30.0,
+        "frame.cap_len": 30.0,
+        "radiotap.dbm_antsignal": -91.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 2.3e-05,
+        "frame.time_relative": 4.074777,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 73,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 198.0,
+        "frame.cap_len": 198.0,
+        "radiotap.dbm_antsignal": -85.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 7e-06,
+        "frame.time_relative": 4.074784,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 74,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 214.0,
+        "frame.cap_len": 214.0,
+        "radiotap.dbm_antsignal": -87.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 3e-06,
+        "frame.time_relative": 4.074787,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 75,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 310.0,
+        "frame.cap_len": 310.0,
+        "radiotap.dbm_antsignal": -56.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 3.6e-05,
+        "frame.time_relative": 4.074823,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 76,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 30.0,
+        "frame.cap_len": 30.0,
+        "radiotap.dbm_antsignal": -90.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 7e-06,
+        "frame.time_relative": 4.07483,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 77,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 30.0,
+        "frame.cap_len": 30.0,
+        "radiotap.dbm_antsignal": -91.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 1.6e-05,
+        "frame.time_relative": 4.074846,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 78,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 271.0,
+        "frame.cap_len": 271.0,
+        "radiotap.dbm_antsignal": -82.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 1.1e-05,
+        "frame.time_relative": 4.074857,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 79,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 30.0,
+        "frame.cap_len": 30.0,
+        "radiotap.dbm_antsignal": -90.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 2.3e-05,
+        "frame.time_relative": 4.07488,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 80,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 52.0,
+        "frame.cap_len": 52.0,
+        "radiotap.dbm_antsignal": -90.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 1e-06,
+        "frame.time_relative": 4.074881,
+        "radiotap.present.channel": 1.0
+      }
+    }
+  ]
+}

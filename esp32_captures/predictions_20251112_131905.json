@@ -1,0 +1,55 @@
+{
+  "timestamp": "20251112_131905",
+  "packet_count": 3,
+  "anomaly_count": 3,
+  "predictions": [
+    {
+      "packet_id": 461,
+      "anomaly": true,
+      "confidence": 0.6,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 269.0,
+        "frame.cap_len": 269.0,
+        "radiotap.dbm_antsignal": -70.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 4e-06,
+        "frame.time_relative": 2.543169,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 462,
+      "anomaly": true,
+      "confidence": 0.6,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 28.0,
+        "frame.cap_len": 28.0,
+        "radiotap.dbm_antsignal": -47.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 0.0,
+        "frame.time_relative": 2.543169,
+        "radiotap.present.channel": 1.0
+      }
+    },
+    {
+      "packet_id": 463,
+      "anomaly": true,
+      "confidence": 0.6,
+      "attack_type": "impersonation",
+      "prediction": 3,
+      "features": {
+        "frame.len": 269.0,
+        "frame.cap_len": 269.0,
+        "radiotap.dbm_antsignal": -74.0,
+        "radiotap.channel.freq": 2412.0,
+        "frame.time_delta": 6e-06,
+        "frame.time_relative": 2.543175,
+        "radiotap.present.channel": 1.0
+      }
+    }
+  ]
+}

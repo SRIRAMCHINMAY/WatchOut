@@ -1,0 +1,77 @@
+{
+  "timestamp": "20251112_104205",
+  "packet_count": 10,
+  "anomaly_count": 0,
+  "predictions": [
+    {
+      "packet_id": 471,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 472,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 473,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 474,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 475,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 476,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 477,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 478,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 479,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    },
+    {
+      "packet_id": 480,
+      "anomaly": false,
+      "confidence": 0.0,
+      "attack_type": "error",
+      "error": "X has 11 features, but RandomForestClassifier is expecting 7 features as input."
+    }
+  ]
+}

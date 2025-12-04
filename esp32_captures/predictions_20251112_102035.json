@@ -1,0 +1,157 @@
+{
+  "timestamp": "20251112_102035",
+  "packet_count": 10,
+  "anomaly_count": 10,
+  "predictions": [
+    {
+      "packet_id": 101,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -48,
+        "channel": 1,
+        "length": 269,
+        "timestamp": 15784,
+        "src_vendor": 16424530,
+        "dst_vendor": 1457988,
+        "src_byte4": 141
+      }
+    },
+    {
+      "packet_id": 102,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -49,
+        "channel": 1,
+        "length": 269,
+        "timestamp": 15787,
+        "src_vendor": 16424530,
+        "dst_vendor": 1457988,
+        "src_byte4": 141
+      }
+    },
+    {
+      "packet_id": 103,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -37,
+        "channel": 1,
+        "length": 30,
+        "timestamp": 15787,
+        "src_vendor": 16654,
+        "dst_vendor": 16424530,
+        "src_byte4": 116
+      }
+    },
+    {
+      "packet_id": 104,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -48,
+        "channel": 1,
+        "length": 269,
+        "timestamp": 15790,
+        "src_vendor": 16424530,
+        "dst_vendor": 1457988,
+        "src_byte4": 141
+      }
+    },
+    {
+      "packet_id": 105,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -48,
+        "channel": 1,
+        "length": 269,
+        "timestamp": 15793,
+        "src_vendor": 16424530,
+        "dst_vendor": 1457988,
+        "src_byte4": 141
+      }
+    },
+    {
+      "packet_id": 106,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -48,
+        "channel": 1,
+        "length": 269,
+        "timestamp": 15796,
+        "src_vendor": 16424530,
+        "dst_vendor": 1457988,
+        "src_byte4": 141
+      }
+    },
+    {
+      "packet_id": 107,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -88,
+        "channel": 1,
+        "length": 95,
+        "timestamp": 15819,
+        "src_vendor": 4866010,
+        "dst_vendor": 8417360,
+        "src_byte4": 135
+      }
+    },
+    {
+      "packet_id": 108,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -88,
+        "channel": 1,
+        "length": 95,
+        "timestamp": 15820,
+        "src_vendor": 4866010,
+        "dst_vendor": 8417360,
+        "src_byte4": 135
+      }
+    },
+    {
+      "packet_id": 109,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -88,
+        "channel": 1,
+        "length": 95,
+        "timestamp": 15821,
+        "src_vendor": 4866010,
+        "dst_vendor": 8417360,
+        "src_byte4": 135
+      }
+    },
+    {
+      "packet_id": 110,
+      "anomaly": true,
+      "confidence": 0.9,
+      "attack_type": "attack_class_3",
+      "features": {
+        "rssi": -89,
+        "channel": 1,
+        "length": 95,
+        "timestamp": 15823,
+        "src_vendor": 4866010,
+        "dst_vendor": 8417360,
+        "src_byte4": 135
+      }
+    }
+  ]
+}
